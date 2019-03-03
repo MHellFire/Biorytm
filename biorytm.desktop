@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Terminal=false
+Exec=biorytm
+Name=Biorytm
+GenericName=Biorytm
+Comment=Displays your biorhythm
+Icon=biorytm.png
+Categories=Education;
