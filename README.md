@@ -1,3 +1,3 @@
 # Biorytm
 
-![Główne okni](screenshot_main .png)
+![Główne okno](/screenshot_main.png)
